@@ -7,3 +7,4 @@ declare module 'quasar/dist/types/feature-flag' {
         electron: true
     }
 }
+yes
